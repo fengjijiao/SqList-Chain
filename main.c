@@ -16,7 +16,6 @@ int main() {
         printf("5.测试线性表的长度\n");
         printf("6.结束程序\n");
         scanf("%d", &opt);
-        freopen("test.txt", "r", stdin);
         switch (opt){
             case 1:
                 printf("线性表的长度:\n");
