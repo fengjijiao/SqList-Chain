@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CLionProjects/SqList-Chain/SqLIst.h
+
+F:/CLionProjects/SqList-Chain/TestSqList.h
+SqLIst.h
+F:/CLionProjects/SqList-Chain/SqLIst.h
+
+F:/CLionProjects/SqList-Chain/main.c
+stdio.h
+-
+stdlib.h
+-
+TestSqList.h
+F:/CLionProjects/SqList-Chain/TestSqList.h
+
